@@ -1,7 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+Using the [PixaBay API](https://pixabay.com/api/docs/)  
+npm install material-ui [Material-UI](https://www.npmjs.com/package/material-ui)  
+Material-UI react components [Material UI](https://www.material-ui.com/#/)
+[AXIOS](https://www.npmjs.com/package/axios) - promise based HTTP client used for the API request  
+  
+
+### Example
+![alt text](https://github.com/abenjamin1313/react-pixabay-image-finder/blob/master/images/example.png)  
 
 ## Table of Contents
 
