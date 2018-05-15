@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Using the [PixaBay API](https://pixabay.com/api/docs/)  
 npm install material-ui [Material-UI](https://www.npmjs.com/package/material-ui)  
-Material-UI react components [Material UI](https://www.material-ui.com/#/)
+Material-UI react components [Material UI](https://www.material-ui.com/#/)  
 [AXIOS](https://www.npmjs.com/package/axios) - promise based HTTP client used for the API request  
   
 
